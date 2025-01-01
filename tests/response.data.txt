@@ -158,7 +158,7 @@ Set-Cookie session=eyJjc3JmX3Rva2VuIjoiNjI5ZTNkZjMwNTU4NDVkMmY3YjA3MWVhNmM3NjAxY
       </li>
     </ul>
     <ul>
-      <li>&copy; Busch Lab 2024</li>
+      <li>&copy; Busch Lab 2025</li>
     </ul>
   </footer>
   <script>
